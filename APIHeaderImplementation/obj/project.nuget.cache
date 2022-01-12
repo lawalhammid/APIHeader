@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PS1zlICGwgRPvLA09QTGuTYM8Y7k8NvEE6IwKMtwTpybc62dmskTD2lplRkh1RcCdCViVCT2w5IO2jXNg5w3mw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\APIHeaderImplementation\\APIHeaderImplementation\\APIHeaderImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdMiN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
